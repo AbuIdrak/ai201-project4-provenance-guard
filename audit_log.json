@@ -1,0 +1,13 @@
+[
+  {
+    "content_id": "15987ba9-14b1-4045-ae0d-251301212075",
+    "creator_id": "test-user-1",
+    "timestamp": "2026-06-30T03:17:04.276573+00:00",
+    "text_preview": "The sun dipped below the horizon.",
+    "llm_score": 0.5,
+    "llm_reasoning": "The text is too short to determine its origin with certainty.",
+    "confidence": 0.5,
+    "label": "placeholder \u2014 confidence scoring not yet implemented",
+    "status": "classified"
+  }
+]
