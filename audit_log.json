@@ -324,5 +324,168 @@
     "attribution": "uncertain",
     "label": "We're not confident whether this was AI-generated or human-written. Mixed signals were detected \u2014 treat this classification as inconclusive.",
     "status": "classified"
+  },
+  {
+    "content_id": "23556adc-448c-43c1-ac9c-2d4ca04402c8",
+    "creator_id": "test-user-1",
+    "timestamp": "2026-06-30T17:46:47.881183+00:00",
+    "text_preview": "The sun dipped below the horizon.",
+    "llm_score": 0.5,
+    "llm_reasoning": "The text is too short to determine its origin with certainty.",
+    "style_score": 0.533,
+    "style_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.167,
+      "punctuation_density_score": 0.933
+    },
+    "confidence": 0.513,
+    "dampened": false,
+    "attribution": "uncertain",
+    "label": "We're not confident whether this was AI-generated or human-written. Mixed signals were detected \u2014 treat this classification as inconclusive.",
+    "status": "classified"
+  },
+  {
+    "content_id": "36ab3212-130e-4f75-b2ed-6b8e1292f31f",
+    "creator_id": "test-user-1",
+    "timestamp": "2026-06-30T17:46:48.275014+00:00",
+    "text_preview": "The sun dipped below the horizon.",
+    "llm_score": 0.5,
+    "llm_reasoning": "The text is too short to determine its origin with certainty.",
+    "style_score": 0.533,
+    "style_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.167,
+      "punctuation_density_score": 0.933
+    },
+    "confidence": 0.513,
+    "dampened": false,
+    "attribution": "uncertain",
+    "label": "We're not confident whether this was AI-generated or human-written. Mixed signals were detected \u2014 treat this classification as inconclusive.",
+    "status": "classified"
+  },
+  {
+    "content_id": "1bf65cbf-8ccd-450d-a8b0-d38dc010e4a3",
+    "creator_id": "test-user-1",
+    "timestamp": "2026-06-30T17:46:48.656460+00:00",
+    "text_preview": "The sun dipped below the horizon.",
+    "llm_score": 0.5,
+    "llm_reasoning": "The text is too short to determine its origin with certainty.",
+    "style_score": 0.533,
+    "style_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.167,
+      "punctuation_density_score": 0.933
+    },
+    "confidence": 0.513,
+    "dampened": false,
+    "attribution": "uncertain",
+    "label": "We're not confident whether this was AI-generated or human-written. Mixed signals were detected \u2014 treat this classification as inconclusive.",
+    "status": "classified"
+  },
+  {
+    "content_id": "15cd2544-f447-4e90-8338-cebf5d5b4350",
+    "creator_id": "test-user-1",
+    "timestamp": "2026-06-30T17:46:49.381981+00:00",
+    "text_preview": "The sun dipped below the horizon.",
+    "llm_score": 0.5,
+    "llm_reasoning": "The text is too short to determine its origin with certainty.",
+    "style_score": 0.533,
+    "style_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.167,
+      "punctuation_density_score": 0.933
+    },
+    "confidence": 0.513,
+    "dampened": false,
+    "attribution": "uncertain",
+    "label": "We're not confident whether this was AI-generated or human-written. Mixed signals were detected \u2014 treat this classification as inconclusive.",
+    "status": "classified"
+  },
+  {
+    "content_id": "24017ddb-e91d-43bc-a43a-4c146e7ddbc1",
+    "creator_id": "test-user-1",
+    "timestamp": "2026-06-30T17:46:50.097829+00:00",
+    "text_preview": "The sun dipped below the horizon.",
+    "llm_score": 0.5,
+    "llm_reasoning": "The text is too short to determine its origin with certainty.",
+    "style_score": 0.533,
+    "style_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.167,
+      "punctuation_density_score": 0.933
+    },
+    "confidence": 0.513,
+    "dampened": false,
+    "attribution": "uncertain",
+    "label": "We're not confident whether this was AI-generated or human-written. Mixed signals were detected \u2014 treat this classification as inconclusive.",
+    "status": "classified"
+  },
+  {
+    "content_id": "ff765aba-652c-4609-b404-65c0e19d1bcd",
+    "creator_id": "test-human",
+    "timestamp": "2026-06-30T17:56:11.767510+00:00",
+    "text_preview": "ok so i finally tried that new ramen place downtown and honestly? underwhelming.",
+    "llm_score": 0.2,
+    "llm_reasoning": "The text contains informal language and personal opinions, which are characteristic of human writing.",
+    "style_score": 0.402,
+    "style_components": {
+      "sentence_length_variance_score": 0.389,
+      "type_token_ratio_score": 0.127,
+      "punctuation_density_score": 0.691
+    },
+    "confidence": 0.281,
+    "dampened": false,
+    "attribution": "likely_human",
+    "label": "This content appears to be human-written. Confidence: 72%.",
+    "status": "classified"
+  },
+  {
+    "content_id": "2371d203-8dd2-46da-a790-483307693b4b",
+    "creator_id": "test-borderline-formal",
+    "timestamp": "2026-06-30T17:56:46.691227+00:00",
+    "text_preview": "The relationship between monetary policy and asset price inflation has been exte",
+    "llm_score": 0.4,
+    "llm_reasoning": "The text's formal tone and technical vocabulary are consistent with human-written academic writing.",
+    "style_score": 0.49,
+    "style_components": {
+      "sentence_length_variance_score": 0.744,
+      "type_token_ratio_score": 0.14,
+      "punctuation_density_score": 0.586
+    },
+    "confidence": 0.436,
+    "dampened": false,
+    "attribution": "uncertain",
+    "label": "We're not confident whether this was AI-generated or human-written. Mixed signals were detected \u2014 treat this classification as inconclusive.",
+    "status": "classified"
+  },
+  {
+    "content_id": "1c551bf9-f30d-407c-b3df-f1b2cbd63ea8",
+    "creator_id": "test-ai",
+    "timestamp": "2026-06-30T17:56:58.015984+00:00",
+    "text_preview": "Artificial intelligence represents a transformative paradigm shift in modern soc",
+    "llm_score": 0.8,
+    "llm_reasoning": "The text's formal tone and repetitive phrase structure are characteristic of AI-generated content.",
+    "style_score": 0.534,
+    "style_components": {
+      "sentence_length_variance_score": 0.621,
+      "type_token_ratio_score": 0.116,
+      "punctuation_density_score": 0.865
+    },
+    "confidence": 0.694,
+    "dampened": false,
+    "attribution": "uncertain",
+    "label": "We're not confident whether this was AI-generated or human-written. Mixed signals were detected \u2014 treat this classification as inconclusive.",
+    "status": "classified"
+  },
+  {
+    "content_id": "62ecda25-c0c9-43f3-93df-62da705e4832",
+    "creator_id": "test-human",
+    "timestamp": "2026-06-30T17:58:21.811985+00:00",
+    "status": "under_review",
+    "appeal_reasoning": "I wrote this myself from personal experience. I am a non-native English speaker and my writing style may appear more formal than typical.",
+    "original_llm_score": null,
+    "original_style_score": null,
+    "original_confidence": null,
+    "original_label": null
   }
 ]
